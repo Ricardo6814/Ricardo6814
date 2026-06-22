@@ -13,6 +13,18 @@
 
 ---
 
+## 🖥️ Ambiente de Trabalho
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,vscode" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white" />
+</p>
+
+---
+
 ## 🌐 Redes Sociais
 
 <p align="left">
@@ -27,14 +39,6 @@
 <a href="https://github.com/Ricardo6814">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-</p>
-
----
-
-## 🖥️ Ambiente de Trabalho
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,vscode" />
 </p>
 
 ---
