@@ -18,10 +18,16 @@
 ## 🌐 Redes Sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iaeericardin)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-oliveira-891b54262/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ricardo6814)
+
+---
+
+## 🖥️ Ambiente de Trabalho
+
+
+::contentReference[oaicite:0]{index=0}
+
 
 ---
 
