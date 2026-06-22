@@ -1,7 +1,6 @@
 # Ricardo Oliveira
 
-💻 Estudante e entusiasta de tecnologia  
-🚀 Focado em desenvolvimento e projetos práticos  
+💻 Estudante de tecnologia  
 
 ---
 
