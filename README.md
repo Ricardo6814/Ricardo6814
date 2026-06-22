@@ -1,60 +1,63 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Ricardo
+# ⚙️ MAROTOS
 
-💻 Desenvolvedor em formação  
-🚀 Foco em Backend, Frontend e Banco de Dados  
-🛠️ Criador da marca Marotos  
-📈 Construindo sistemas reais e escaláveis
+<img src="https://i.ibb.co/spZPV3kc/Marotos.png" width="100%" />
 
----
-
-## 🧠 Sobre mim
-
-Eu não fico só na teoria. Eu construo sistemas que funcionam de verdade.
-
-- Backend com foco em C# e JavaScript  
-- Banco de dados com PostgreSQL  
-- Linux, servidores e automação  
-- Design e identidade visual de sistemas  
+### “Não foi eu, foi o SISTEMA”
 
 ---
 
-## ⚙️ Tech Stack
+## 👋 Ricardo aqui
 
-💻 Linguagens  
-`C#` • `JavaScript` • `SQL` • `HTML` • `CSS`
-
-🧠 Backend & Sistemas  
-`.NET` • `Node.js` • `APIs REST` • `PostgreSQL`
-
-🛠️ Ferramentas  
-`VS Code` • `Git & GitHub` • `Linux`
+Desenvolvedor focado em construir sistemas que saem do papel e viram operação real.
 
 ---
 
-## 🚀 Projeto Principal
+## 🧠 O que eu faço na prática
 
-- 🧾 Marotos — Marca e sistema em desenvolvimento
+💻 Desenvolvimento backend  
+🔌 APIs e integrações  
+🗄️ Banco de dados com PostgreSQL  
+⚙️ Automação de processos  
+🖥️ Sistemas para negócios reais
+
+---
+
+## 🚀 Stack que uso pra construir
+
+`C#` • `JavaScript` • `SQL` • `HTML` • `CSS`  
+`.NET` • `Node.js` • `PostgreSQL`  
+`Git` • `Linux` • `VS Code`
+
+---
+
+## 🏗️ Projeto principal
+
+### 🧾 Marotos
+Sistema e marca em desenvolvimento com foco em:
+
+- Estrutura de sistemas reais  
+- Soluções para negócios  
+- Base para produtos digitais futuros  
 
 ---
 
 ## 🎯 Visão
 
-Construir sistemas que resolvem problemas reais e viram negócio.  
-Pensar como engenheiro, executar como empreendedor.
+Construir sistemas que resolvem problemas de verdade e viram dinheiro no mundo real.
 
 ---
 
-## 📸 Marotos
+## 📊 Status
 
-<div align="center">
-  <img src="https://i.ibb.co/spZPV3kc/Marotos.png" width="100%" />
-</div>
+🟢 Em desenvolvimento ativo  
+🟡 Evoluindo constantemente  
+🔴 Sem espaço pra amadorismo
 
 ---
 
-## 🌐 Contato
+## 📬 Contato
 
 📸 Instagram: https://www.instagram.com/iaeericardin  
 💻 GitHub: https://github.com/Ricardo6814  
@@ -62,7 +65,7 @@ Pensar como engenheiro, executar como empreendedor.
 
 ---
 
-## 🧠 Final
 
-**não foi eu, foi o sistema**
+> Não foi eu, foi o SISTEMA
+
 </div>
