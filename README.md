@@ -1,12 +1,13 @@
 # Ricardo Oliveira
 
-Estudante de tecnologia  
+Estudante de Tecnologia
 
+---
 
 ## Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,postgresql" />
+  <img src="https://skillicons.dev/icons?i=cs,js,html,css,postgresql" />
 </p>
 
 ---
@@ -39,7 +40,4 @@ Estudante de tecnologia
 
 ---
 
-</p>
-
-
-## Não fui eu, foi o SISTEMA.
+## Não fui eu, foi o SISTEMA. 
