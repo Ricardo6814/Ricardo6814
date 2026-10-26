@@ -42,4 +42,4 @@
 
 ---
 
-## 📌 Não foi eu, foi o SISTEMA.
+## 📌 Não fui eu, foi o SISTEMA.
