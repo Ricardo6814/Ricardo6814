@@ -62,24 +62,5 @@ Estudante de tecnologia
 📌 **Não fui eu, foi o SISTEMA.** 
 </p>
 
----
-
-##  Redes Sociais
-
-<p align="left">
-<a href="https://www.instagram.com/iaeericardin">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="https://www.linkedin.com/in/ricardo-oliveira-891b54262/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/Ricardo6814">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
-
----
 
 ## Não fui eu, foi o SISTEMA.
