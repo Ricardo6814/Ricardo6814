@@ -2,26 +2,6 @@
 
 Estudante de tecnologia  
 
----
-
-## Linguagens e Tecnologias
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cs,js,html,css,postgresql" />
-</p>
-
----
-
-## Ambiente de Trabalho
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,vscode" />
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white" />
-
----
 
 ## Linguagens e Tecnologias
 
