@@ -59,7 +59,6 @@ Estudante de tecnologia
 
 ---
 
-📌 **Não fui eu, foi o SISTEMA.** 
 </p>
 
 
