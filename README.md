@@ -19,7 +19,8 @@ Estudante de tecnologia
 </p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white" /># Ricardo Oliveira
+<img src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white" />
+  # Ricardo Oliveira
 
 **Estudante de Tecnologia**
 
