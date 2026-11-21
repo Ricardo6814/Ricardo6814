@@ -1,25 +1,33 @@
+
 # Ricardo Oliveira
 
 Estudante de Tecnologia
 
 ---
 
-## Linguagens e Tecnologias
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,js,html,css,postgresql" />
-</p>
-
----
-
 ## Ambiente de Trabalho
 
+### Desenvolvimento
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,cs,tailwind&perline=8" />
+</p>
+
+### Infraestrutura e DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,github,postgresql,azure&perline=8" />
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
   <img src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white" />
+</p>
+
+### Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git" />
 </p>
 
 ---
@@ -40,4 +48,4 @@ Estudante de Tecnologia
 
 ---
 
-## Não fui eu, foi o SISTEMA. 
+## Não fui eu, foi o SISTEMA.
