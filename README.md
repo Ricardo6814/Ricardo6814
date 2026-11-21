@@ -1,10 +1,6 @@
 
 # Ricardo Oliveira
 
-Estudante de Tecnologia
-
----
-
 ## Ambiente de Trabalho
 
 ### Desenvolvimento
